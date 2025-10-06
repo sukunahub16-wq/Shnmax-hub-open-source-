@@ -1,6 +1,6 @@
--- Por Favor Use O Código Com Responsabilidade 
--- Hub Brookhaven RP 🏡 [2024]
--- Não Compartilhar o Código 
+-- Private script shnmax open source  
+-- There are no rights over him. 🥶💥
+-- by sukuna 😏🛡 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DeterDsl/Spacey-xploits/refs/heads/main/Spacey%20RedzLib.txt"))()
 
